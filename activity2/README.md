@@ -37,7 +37,7 @@ Then, the code iterates through the sorted items and selects as many of them as 
 
 Finally, the code returns the total value of the items packed into the knapsack.
 
- the code provides a simple and efficient solution to the Fractional Knapsack Problem using a Greedy approach. However, it is important to keep in mind that the Greedy approach may not always provide the optimal solution for more complex problem spaces.
+the code provides a simple and efficient solution to the Fractional Knapsack Problem using a Greedy approach. However, it is important to keep in mind that the Greedy approach may not always provide the optimal solution for more complex problem spaces.
 
 ## Task 3
 
